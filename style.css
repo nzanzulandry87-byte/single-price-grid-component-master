@@ -3,23 +3,25 @@
     text-align: center; 
 }
 .attribution a { 
-    color: hsl(228, 45%, 44%); 
+    color: hsl(228, 45%, 44%);
+    text-decoration: none;
 }
 
 * {
     font-family: 'Karla', sans-serif;
-    background-color: hsl(0, 0%, 100%);
     margin: 0;
     padding: 0;
 }
 body {
     min-height: 100vh;
+    background-color: hsl(0, 0%, 100%);
 }
 .top_component{
     padding:5%;
 }
 .bottom_component{
     background-color: hsl(179, 62%, 43%);
+    padding: 2.5%;
 }
 .single_price h2 {
     color: hsl(179, 62%, 43%);
@@ -31,12 +33,23 @@ body {
 }
 .single_price p {
     color: hsl(218, 22%, 67%);
-    padding-bottom: 1rem;
     line-height: 1.5rem;
 }  
 .info{
     display: flex;
 } 
-.price{
+.price, .why_us{
     width: 50%;
+    padding: 2.5%;
+}
+.price h4, h2, p{
+    padding-bottom: 1rem;
+}
+.price button{
+    background-color: hsl(71, 73%, 54%);
+    color: hsl(0, 0%, 100%);
+    border: none;
+    padding: 1rem;
+    width: 100%;
+    cursor: pointer;
 }
