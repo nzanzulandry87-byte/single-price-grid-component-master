@@ -13,11 +13,13 @@
     padding: 0;
 }
 body {
-    padding:5%;
     min-height: 100vh;
 }
-.single_price{
-    margin-bottom: 2rem;
+.top_component{
+    padding:5%;
+}
+.bottom_component{
+    background-color: hsl(179, 62%, 43%);
 }
 .single_price h2 {
     color: hsl(179, 62%, 43%);
@@ -30,11 +32,11 @@ body {
 .single_price p {
     color: hsl(218, 22%, 67%);
     padding-bottom: 1rem;
+    line-height: 1.5rem;
 }  
 .info{
     display: flex;
 } 
 .price{
     width: 50%;
-    background-color: hsl(179, 62%, 43%);
 }
