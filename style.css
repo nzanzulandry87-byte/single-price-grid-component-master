@@ -5,3 +5,32 @@
 .attribution a { 
     color: hsl(228, 45%, 44%); 
 }
+
+* {
+    font-family: 'Karla', sans-serif;
+    background-color: hsl(0, 0%, 100%);
+    margin: 0;
+    padding: 0;
+}
+body {
+    padding:5%;
+    min-height: 100vh;
+}
+.single_price{
+    margin-bottom: 2rem;
+}
+.single_price h2 {
+    color: hsl(179, 62%, 43%);
+    padding-bottom: 1rem;
+}
+.single_price h4 {
+    color: hsl(71, 73%, 54%);
+    padding-bottom: 1rem;
+}
+.single_price p {
+    color: hsl(218, 22%, 67%);
+    padding-bottom: 1rem;
+}  
+.info{
+    display: flex;
+} 
