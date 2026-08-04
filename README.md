@@ -31,7 +31,7 @@ The main goals were:
 
 ### Screenshot
 
-![Project screenshot](./preview.jpg)
+![Project screenshot](./preview.png)
 
 > Replace this image if you add a new screenshot of your finished project.
 
@@ -74,8 +74,8 @@ For future improvements, I plan to:
 
 ## Author
 
-- Name - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Name - [landry mast](https://www.your-site.com)
+- Frontend Mentor - [nzanzulandry87-byte](https://www.frontendmentor.io/profile/nzanzulandry87-byte)
 
 ## Acknowledgments
 
