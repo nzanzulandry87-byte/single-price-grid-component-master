@@ -37,8 +37,8 @@ The main goals were:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/nzanzulandry87-byte/single-price-grid-component-master](https://your-solution-url.com)
+- Live Site URL: [https://single-price-grid-component-master-ten-iota.vercel.app/](https://your-live-site-url.com)
 
 ## My process
 
